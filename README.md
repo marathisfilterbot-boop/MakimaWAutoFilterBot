@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/💬%20Support%20Group-Join-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Support Group">
   </a>
   &nbsp;
-  <a href="https://t.me/dreamxbotz">
+  <a href="https://t.me/WayneBots">
     <img src="https://img.shields.io/badge/📢%20Updates-Channel-FF8800?style=for-the-badge&logo=telegram&logoColor=white" alt="Updates">
   </a>
 </p>
