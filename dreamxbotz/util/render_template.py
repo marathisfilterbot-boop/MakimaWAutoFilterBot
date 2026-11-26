@@ -1,4 +1,4 @@
-#Thanks @dreamxbotz for helping in this journey 
+#Thanks @WayneBots for helping in this journey 
 
 import jinja2
 from info import BIN_CHANNEL, URL
