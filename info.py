@@ -77,7 +77,7 @@ PREMIUM_USER = [int(user) if id_pattern.search(user) else user for user in envir
 
 # Social & Community Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/WayneBots')
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/WayneBots')
+OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/NiteshTeamUniverse')
 UPDATE_CHNL_LNK = environ.get('UPDATE_CHNL_LNK', 'https://t.me/WayneBots')
 
 
